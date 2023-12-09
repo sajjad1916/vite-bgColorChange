@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.button {
+  padding: "15px";
+  border-radius: "10px";
+  border: "none";
+  margin: "5px";
+}
+
+.btn-group {
+  background-color: "white";
+  position: "absolute";
+  bottom: "50px";
+  left: "40vw";
+  padding: "15px";
+  border-radius: "10px";
+}
+
+.main-wrapper {
+  width: "100vw";
+  height: "100vh";
+  overflow: "hidden";
+  position: "relative";
+}
